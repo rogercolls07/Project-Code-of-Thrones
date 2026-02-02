@@ -1,5 +1,5 @@
 package Core;
 
-public class Guerrer {
+public class Guerrer extends Personatjes{
     private int resistencia;
 }

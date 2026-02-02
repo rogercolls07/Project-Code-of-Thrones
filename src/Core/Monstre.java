@@ -1,4 +1,5 @@
 package Core;
 
-public class Monstre {
+public class Monstre extends Personatjes {
+
 }

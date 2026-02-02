@@ -1,6 +1,6 @@
 package Core;
 
 public class Personatjes {
-    private int nivell;
-    private int salud;
+    protected int nivell;
+    protected int Vida;
 }
